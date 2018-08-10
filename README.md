@@ -17,7 +17,7 @@
 </p>
 </details>
 
-### 1. Automated Log Parsing
+## 1. Automated Log Parsing
 [Towards Automated Log Parsing for Large-Scale Log Data Analysis](http://jiemingzhu.github.io/pub/pjhe_tdsc2017.pdf)
 
 **Summary**:
@@ -33,7 +33,7 @@
 	* LogSig
 	* IPLoM
 	* LKE
-* paper purposes POP, a parallel log parsing method
+* this paper purposes POP, a parallel log parsing method
 * log parsing = list of _log events_ + _structured logs_ (log events = static content = template of log messages)
 * POP 
 	1. process domain knowledge
@@ -47,7 +47,7 @@
 * open source, developers might be unaware of the orginal logging purpose
 
 
-### 2. DeepLog
+## 2. DeepLog
 
 [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf)
 
