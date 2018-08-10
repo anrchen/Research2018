@@ -28,7 +28,7 @@
 	* log parsing	
 	* matrix generation
 	* log mining
-* 4 existing log parsers
+* 4 existing log parsers ([papers and codes on those 4 parsers + POP](https://github.com/logpai/logparser))
 	* SLCT
 	* LogSig
 	* IPLoM
