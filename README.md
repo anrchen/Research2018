@@ -20,7 +20,7 @@
 ## 1. Automated Log Parsing
 [Towards Automated Log Parsing for Large-Scale Log Data Analysis](http://jiemingzhu.github.io/pub/pjhe_tdsc2017.pdf)
 
-**Summary**:
+**Summary**: overview on log parsing, evaluation on POP parsing method
 
 **Key points**
 	
