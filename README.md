@@ -90,4 +90,24 @@
 	* PCA based
 	* invariant mining based
 	* workflow based methods
+	
+### 3. An Evaluation Study on Log Parsing and Its Use in Log Mining
+[An Evaluation Study on Log Parsing and Its Use in Log Mining](http://jiemingzhu.github.io/pub/pjhe_dsn2016.pdf)
 
+
+**Summary**: ...
+	
+**Key points** 
+...
+	
+<hr>
+
+<details>
+<summary>Click here for more information on [loglizer](https://github.com/logpai/loglizer)</summary>
+<p>
+Loglizer is an open-source python tool for automatic log-based anomaly detection with machine learning techniques. In this project, six popular anomaly detection methods are implemented and evaluated on two public datasets.
+</p>
+</details>
+
+To Do...
+<hr>
