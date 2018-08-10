@@ -91,7 +91,7 @@
 	* invariant mining based
 	* workflow based methods
 	
-### 3. An Evaluation Study on Log Parsing and Its Use in Log Mining
+## 3. An Evaluation Study on Log Parsing and Its Use in Log Mining
 [An Evaluation Study on Log Parsing and Its Use in Log Mining](http://jiemingzhu.github.io/pub/pjhe_dsn2016.pdf)
 
 
